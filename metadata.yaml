@@ -1,0 +1,38 @@
+_repo: Elamantarinoita-syrjakadulta_64951
+_version: 0.0.1
+alternative_title: 'Aus der Triumphgasse: Lebensskizzen. Finnish'
+contributor:
+  translator:
+    agent_name: Walldén, Hilja
+    alias: Wallden, Hilja
+    birthdate: 1871
+    deathdate: 1929
+    gutenberg_agent_id: '42640'
+    url: http://www.gutenberg.org/2009/agents/42640
+    wikipedia: https://fi.wikipedia.org/wiki/Hilja_Walld%C3%A9n
+creator:
+  author:
+    agent_name: Huch, Ricarda
+    alias: Huch, Ricarda Octavia
+    birthdate: 1864
+    deathdate: 1947
+    gutenberg_agent_id: '7189'
+    url: http://www.gutenberg.org/2009/agents/7189
+    wikipedia:
+    - https://de.wikipedia.org/wiki/Ricarda_Huch
+    - https://en.wikipedia.org/wiki/Ricarda_Huch
+description: ''
+gutenberg_issued: '2021-03-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64951'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'German fiction -- Translations into Finnish'
+- GITenberg
+title: Elämäntarinoita syrjäkadulta
+url: http://www.gutenberg.org/ebooks/64951
